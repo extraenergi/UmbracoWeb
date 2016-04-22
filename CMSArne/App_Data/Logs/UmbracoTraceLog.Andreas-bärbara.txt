@@ -1283,3 +1283,31 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
    at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
    at System.Threading.ThreadPoolWorkQueue.Dispatch()
    at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+ 2016-04-22 10:17:40,194 [P9796/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.3 application starting on ANDREAS-BÄRBARA
+ 2016-04-22 10:17:40,235 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-04-22 10:17:40,249 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 14ms)
+ 2016-04-22 10:17:40,398 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-04-22 10:17:41,024 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 626ms)
+ 2016-04-22 10:17:41,123 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-04-22 10:17:41,128 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 5ms)
+ 2016-04-22 10:17:41,130 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-04-22 10:17:41,139 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 8ms)
+ 2016-04-22 10:17:41,157 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-04-22 10:17:41,164 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 6ms)
+ 2016-04-22 10:17:41,165 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-04-22 10:17:41,172 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 7ms)
+ 2016-04-22 10:17:41,280 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-04-22 10:17:41,285 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 5ms)
+ 2016-04-22 10:17:41,287 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-04-22 10:17:41,292 [P9796/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 4ms)
+ 2016-04-22 10:17:42,926 [P9796/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-22 10:17:43,844 [P9796/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-22 10:17:43,958 [P9796/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-04-22 10:17:44,154 [P9796/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-04-22 10:17:44,210 [P9796/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-04-22 10:17:44,381 [P9796/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-04-22 10:17:44,438 [P9796/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 4348ms)
+ 2016-04-22 10:17:47,066 [P9796/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:52884/umbraco (UmbracoModule request)
+ 2016-04-22 10:17:47,511 [P9796/D2/T8] INFO  umbraco.content - Load Xml from file...
+ 2016-04-22 10:17:47,536 [P9796/D2/T8] INFO  umbraco.content - Loaded Xml from file.
+ 2016-04-22 10:17:47,540 [P9796/D2/T8] WARN  Umbraco.Web.UmbracoModule - Umbraco has no content
