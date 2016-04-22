@@ -1244,3 +1244,18 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2016-04-22 09:57:30,267 [P9048/D9/T72] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
  2016-04-22 09:57:30,273 [P9048/D9/T72] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 2583ms)
  2016-04-22 09:57:34,761 [P9048/D9/T57] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:52884/umbraco (UmbracoModule request)
+ 2016-04-22 10:12:46,116 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Terminating
+ 2016-04-22 10:12:46,116 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Waiting for tasks to complete
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Tasks completed, terminated
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Terminating
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Waiting for tasks to complete
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Tasks completed, terminated
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Terminating
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Waiting for tasks to complete
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Tasks completed, terminated
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Terminating
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Waiting for tasks to complete
+ 2016-04-22 10:12:46,118 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Tasks completed, terminated
+ 2016-04-22 10:12:46,121 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Terminating
+ 2016-04-22 10:12:46,121 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Waiting for tasks to complete
+ 2016-04-22 10:12:46,121 [P9048/D9/T17] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Tasks completed, terminated
